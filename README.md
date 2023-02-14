@@ -13,7 +13,7 @@ pip install openai
 ```
 These commands will install the speechrecognition, pyttsx3, and openai modules on your computer.
 
-**Get an OpenAI API Key:** To use the OpenAI API, you will need to sign up for an API key on the OpenAI website ![openai.com.](https://platform.openai.com/account/api-keys) Once you have signed up, you can copy the API key to the clipboard.
+**Get an OpenAI API Key:** To use the OpenAI API, you will need to sign up for an API key on the OpenAI website [openai.com.](https://platform.openai.com/account/api-keys) Once you have signed up, you can copy the API key to the clipboard.
 
 **Replace the API Key:** In the code you provided, replace the "openai.api_key" value with your own API key that you obtained in Step 3.
 
