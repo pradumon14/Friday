@@ -1,7 +1,7 @@
  # Installation 
 Here are step-by-step instructions to install and use the Friday tool:
 
-**Install Python:** If you don't already have Python installed on your computer, go to the official Python website (python.org) and download the latest version for your operating system. Follow the installation instructions to complete the installation.
+**Install Python:** If you don't already have Python installed on your computer, go to the official Python website [python.org](python.org) and download the latest version for your operating system. Follow the installation instructions to complete the installation.
 
 **Install Required Modules:** The Friday tool relies on several Python modules that you will need to install. To do so, open a command prompt or terminal window and run the following commands:
 
